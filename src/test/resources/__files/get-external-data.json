@@ -1,0 +1,35 @@
+[
+  {
+    "user_id": "u7R9p3K5qL8s",
+    "duration": 20000,
+    "artist": "Joni Mitchell",
+    "username": "spoolUser",
+    "track": "Lesson In Survival",
+    "email": "myprivatemail@email.com",
+    "album": "For The Roses",
+    "shuffle": false,
+    "offline": false
+  },
+  {
+    "user_id": "u7R9p3K5qL8s",
+    "duration": 30000,
+    "artist": "Talking Heads",
+    "username": "spoolUser",
+    "track": "Houses In Motion",
+    "email": "myprivatemail@email.com",
+    "album": "Remain In Light",
+    "shuffle": false,
+    "offline": false
+  },
+  {
+    "user_id": "u7R9p3K5qL8s",
+    "duration": 10000,
+    "artist": "Yeah Yeah Yeahs",
+    "username": "spoolUser",
+    "track": "Y Control",
+    "email": "myprivatemail@email.com",
+    "album": "Fever To Tell",
+    "shuffle": false,
+    "offline": false
+  }
+]

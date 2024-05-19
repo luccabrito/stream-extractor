@@ -1,0 +1,16 @@
+---
+service.name : Stream Data Extractor
+server :
+  port : 7000
+  shutdown : graceful
+
+spring :
+  main :
+    allow-bean-definition-overriding : true
+  jackson :
+    property-naming-strategy : SNAKE_CASE
+    serialization :
+      FAIL_ON_EMPTY_BEANS : false
+
+external-client :
+  path : http://localhost:7070
